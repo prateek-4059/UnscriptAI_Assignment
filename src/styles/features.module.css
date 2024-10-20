@@ -1,0 +1,12 @@
+.parent {
+    position: relative; /* Define a relative position */
+    height: 100vh; /* Optional: full height of the viewport */
+  }
+  
+  .center-div {
+    position: absolute; /* Enable absolute positioning */
+    top: 50%; /* Move down 50% */
+    left: 50%; /* Move right 50% */
+    transform: translate(-50%, -50%); /* Adjust position back by half of its own size */
+  }
+  

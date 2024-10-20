@@ -1,0 +1,28 @@
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #f4f4f4;
+    font-size: 50px;
+  }
+  
+  h1 span{
+    color: blue;
+  }
+
+  .inp1{
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .heroButton {
+    margin-top: 20px;
+    background-color: blue;
+    border: none;
+    padding: 15px 30px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  
